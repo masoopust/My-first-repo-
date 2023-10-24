@@ -12,7 +12,15 @@ Může se stát, že po cestě budeš odpovídat na otázky.
 V takovém případě musíš zadat odpověď bez překlepů! Neboj se ale, hned na začátku si to vyzkoušíš při zadávání jména.
 Hra tě upozorní, když přejdeš z jednoho patra na druhé, v tu chvíli si prosím přepni plánek pro plný požitek ze hry.
 
+Spuštění:
+
+Pro spuštěni hry musíš stáhnout celou složku hra.
+Samotná hra se nachází v souboru main.py
+Otevřeš si tedy soubor main.py a v tomto souboru spustíš terminál.
+
+
 Doufám, že se ti hra bude líbit a v případě jakékoliv poznámky, bugu, či nápadu mě kontaktuj.
+
 
 Patrik
 
